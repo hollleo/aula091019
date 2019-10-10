@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cadastroalunos</string>
+
+   <array name="cursos">
+    <item>ADS</item>
+    <item>GTI</item>
+    </array>
+
+
+</resources>
